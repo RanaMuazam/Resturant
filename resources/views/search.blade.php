@@ -16,7 +16,7 @@
       <th scope="col">Email</th>
       <th scope="col">Address</th>
     </tr>
-  </thead>
+  </thead> 
   <tbody>
   @foreach($data as $item)
     <tr>
